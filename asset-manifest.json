@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CODSOFT/static/css/main.6e604242.css",
-    "main.js": "/CODSOFT/static/js/main.e4bfefc0.js",
+    "main.js": "/CODSOFT/static/js/main.f0426e5a.js",
     "index.html": "/CODSOFT/index.html",
     "main.6e604242.css.map": "/CODSOFT/static/css/main.6e604242.css.map",
-    "main.e4bfefc0.js.map": "/CODSOFT/static/js/main.e4bfefc0.js.map"
+    "main.f0426e5a.js.map": "/CODSOFT/static/js/main.f0426e5a.js.map"
   },
   "entrypoints": [
     "static/css/main.6e604242.css",
-    "static/js/main.e4bfefc0.js"
+    "static/js/main.f0426e5a.js"
   ]
 }

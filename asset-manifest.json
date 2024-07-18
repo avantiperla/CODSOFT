@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CODSOFT/static/css/main.6e604242.css",
+    "main.js": "/CODSOFT/static/js/main.e4bfefc0.js",
+    "index.html": "/CODSOFT/index.html",
+    "main.6e604242.css.map": "/CODSOFT/static/css/main.6e604242.css.map",
+    "main.e4bfefc0.js.map": "/CODSOFT/static/js/main.e4bfefc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e604242.css",
+    "static/js/main.e4bfefc0.js"
+  ]
+}
